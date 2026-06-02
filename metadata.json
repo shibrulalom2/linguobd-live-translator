@@ -1,0 +1,9 @@
+{
+  "name": "LinguoBD Live Translator",
+  "description": "Ultra-fast real-time speech-to-speech translator powered by itzshibrul, specializing in Bengali-English communication. Built with love for BD by MD Shibrul Alom.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
